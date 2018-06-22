@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="org.bobstuff.parallaxscroll.ScrollImageView">
+    </declare-styleable>
+
+    <declare-styleable name="org.bobstuff.parallaxscroll.ParallaxScrollView">
+    </declare-styleable>
+</resources>

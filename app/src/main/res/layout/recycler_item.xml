@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/item_list_width"
+    android:paddingTop="60dp"
+    android:paddingBottom="60dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:background="#88868686"
+        android:id="@+id/text_view"
+        android:textSize="100dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</android.support.constraint.ConstraintLayout>

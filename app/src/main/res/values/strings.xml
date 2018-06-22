@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ParallaxScroll</string>
+    <string name="background_image">file:///android_asset/wallpaper.wiki-Color-Splash-Background-Widescreen-PIC-WPC004336.jpg</string>
+</resources>
