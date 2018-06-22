@@ -6,6 +6,9 @@ It works by redrawing different sections of the background image based on the cu
 
 It's not a library, just some sample code of how this functionality could work.  It requires the recyclerview to have fixed size items and a constant item decoration.
 
+Video
+======
+A little video of the code running is available here https://drive.google.com/open?id=1mrwC82D5p46lQ36njgMvo8oct05JdVvw
 
 Attributions
 ============
